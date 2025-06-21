@@ -1,2 +1,3 @@
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=00BFFF&background=000000&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello;I'm+Navneet%2C+an+Android+dev+%E2%9C%A9" width="70%" />
-
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/a32fe290-06a6-48e9-80a9-e86e740ade30" width="400" />
+</div>
